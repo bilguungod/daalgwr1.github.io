@@ -1,2 +1,2 @@
-# daalgwr1.github.io
+# itu-lab.github.io
 its for laab1
